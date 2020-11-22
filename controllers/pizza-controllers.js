@@ -1,6 +1,4 @@
 const { Pizza } = require('../models');
-const { db } = require('../models/Pizza');
-const { param } = require('../routes');
 
 const pizzaController = {
     //get all pizzas
